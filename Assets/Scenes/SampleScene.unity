@@ -667,7 +667,8 @@ MonoBehaviour:
   baseDefense: 5
   baseSpeed: 3
   baseMana: 50
-  equippedItems: []
+  equippedItems:
+  - {fileID: 11400000, guid: 0f8d4d03f98b0d04eb253b3a0d0749cf, type: 2}
 --- !u!4 &965840856
 Transform:
   m_ObjectHideFlags: 0
